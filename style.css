@@ -1,0 +1,54 @@
+#prawa{
+    position: absolute;
+    right: 0;
+    width: 75%;
+}
+
+
+#lewa{
+    position: absolute;
+    left: 0;
+    width: 25%;
+}
+
+
+
+#prawagora{
+
+    background-color: gray;
+   
+    height: 100px;
+  
+    margin-top: 0;
+    margin-right: 0;
+
+
+
+}
+#prawydol{
+    background-color: rgba(54, 22, 3, 0.753);
+
+
+    height: 730px;
+    margin-top: 0px;
+    margin-right: 0;
+
+}
+
+#lewyblok{
+    
+      
+        height:825px;
+        background-color: red;
+        width:100%;
+    
+}
+
+#footer{
+
+    position: absolute;
+    height: 100px;
+    width: 100%;
+    background-color: purple;
+    bottom: 0;
+}
